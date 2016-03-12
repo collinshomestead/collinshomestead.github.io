@@ -6,8 +6,12 @@ body {
     width: 70%;
     margin: 60px auto;
 }
+.headerbox {
+    background-color: #726b05;
+    height: 100px;
+}
 .topbox{
-    background-color: #5a5404;
+    background-color: #83643d;
     height: 50px;
 }
 nav ul, footer ul {
@@ -19,6 +23,7 @@ nav ul, footer ul {
 nav ul {
     margin: 0 auto;
     width: 1000px;
+    color: #3a0000;
 }
 nav ul li, footer ul li {
     display: inline;
