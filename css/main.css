@@ -97,7 +97,11 @@ ul.posts li {
     margin: 0 auto;
     color: #83643d;
 }
+a.footer {
+    color: #83643d;
+}
 a.footer:hover {
-    color: #fff4c8;
+    color: #a89277;
+    text-decoration: none;
 }
 
