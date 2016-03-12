@@ -32,9 +32,11 @@ body {
     line-height: 100px;
 }
 .topbox{
-    background-color: #83643d;
+    background-color: #fff4c8;
     height: 50px;
+    color: #3a0000;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
