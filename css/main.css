@@ -10,6 +10,11 @@ body {
     background-color: #726b05;
     height: 100px;
 }
+.headerwords{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 48px;
+    color: #fff4c8;
+}
 .topbox{
     background-color: #83643d;
     height: 50px;
