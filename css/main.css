@@ -15,10 +15,8 @@ body {
     src: url(Amaranth-Italic.otf);
 }
 .container {
-   min-height: 100%;
-   height: auto !important;
-   height: 100%;
-   margin: 0 auto -80px;
+   min-height: 600px;
+   margin: 0 auto;
 }
 .headerbox {
     background-color: #726b05;
@@ -93,11 +91,14 @@ ul.posts li {
 }
 .footerbox {
     background-color: #3a0000;
+    height: 80px;
 }
 .footerwords {
     width: 70%;
     margin: 0 auto;
     color: #83643d;
+    font-size: 14px;
+    line-height: 80px;
 }
 a.footer {
     color: #83643d;
@@ -106,10 +107,4 @@ a.footer:hover {
     color: #a89277;
     text-decoration: none;
 }
-footer {
-    height: 80px;
-}
-.push {
-    height: 80px;
-}
-}
+
