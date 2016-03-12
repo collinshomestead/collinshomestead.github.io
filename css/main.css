@@ -64,7 +64,8 @@ a.header {
     color: #3a0000;
 }
 a.header:hover{
-    color: #613232;
+    color: #886666;
+    text-decoration: none;
 }
 h1 {
     font-size: 3em;
