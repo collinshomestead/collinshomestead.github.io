@@ -97,11 +97,7 @@ ul.posts li {
     margin: 0 auto;
     color: #83643d;
 }
-a.footer {
-    color: #83643d;
-    text-decoration: underline;
-}
 a.footer:hover {
-    color: #fffcf4;
+    color: #fff4c8;
 }
-}
+
