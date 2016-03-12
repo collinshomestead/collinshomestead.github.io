@@ -15,8 +15,10 @@ body {
     src: url(Amaranth-Italic.otf);
 }
 .container {
-    width: 70%;
-    margin: 60px auto;
+   min-height: 100%;
+   height: auto !important;
+   height: 100%;
+   margin: 0 auto -80px;
 }
 .headerbox {
     background-color: #726b05;
@@ -104,4 +106,10 @@ a.footer:hover {
     color: #a89277;
     text-decoration: none;
 }
-
+footer {
+    height: 80px;
+}
+.push {
+    height: 80px;
+}
+}
