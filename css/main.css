@@ -24,10 +24,11 @@ body {
 }
 .headerwords{
     font-family:'AmaranthBold';
-    font-size: 48px;
+    font-size: 50px;
     color: #fff4c8;
     width: 70%;
     margin: 0 auto;
+    letter-spacing: 3px;
 }
 .topbox{
     background-color: #83643d;
