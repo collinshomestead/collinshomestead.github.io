@@ -15,13 +15,15 @@ body {
     src: url(Amaranth-Italic.otf);
 }
 .container {
-   min-height: 600px;
+   min-height: 500px;
    background-color: #f2f2f2;
+   margin: 0;
 }
 .content {
     width: 70%;
     margin: 0 auto;
     background-color: #fff;
+    min-height: 500px;
 }
 .headerbox {
     background-color: #726b05;
