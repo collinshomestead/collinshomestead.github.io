@@ -48,6 +48,9 @@ nav ul {
     width: 70%;
     color: #3a0000;
 }
+footer ul {
+    margin: 0 auto;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
