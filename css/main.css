@@ -1,6 +1,9 @@
 body {
-    margin: 60px auto;
+    width: 100%;
+}
+.content {
     width: 70%;
+    margin: 60px auto;
 }
 .topbox{
     background-color: #423d03;
