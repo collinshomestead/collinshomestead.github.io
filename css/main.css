@@ -17,7 +17,8 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul {
-    margin-left: 50px;
+    margin: 0 auto;
+    width: 1000px;
 }
 nav ul li, footer ul li {
     display: inline;
