@@ -60,6 +60,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a.header {
+    color: #3a0000;
+}
+a.header:hover{
+    color: #613232;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
